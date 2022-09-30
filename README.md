@@ -1,2 +1,3 @@
-# automacaoindicadores
+# Nosso objetivo é Treinar e Criar um Projeto Completo que envolva automatização de um processo feito no Computador. Imagina que você trabalha em uma grande Rede de Lojas de Roupas espalhadas por todo o Brasil. Todos os dias de manhã a equipe de Análise de Dados calcula os chamados One Pages e envia para o Gerente de cada Loja, bem como todas as informações usadas no cálculo dos indicadores. O nosso papel como Analista de Dados, é conseguir criar um processo de forma mais automática possível para calcular o OnePage de cada Loja e enviar um e-mail para o Gerente de cada Loja com seu OnePage no corpo do e-mail e também o arquivo completo com os Dados da sua respectiva loja em anexo.
+# Bibliotecas: pandas, win32com.client, pathlib
  Automação de Indicadores de Vendas
